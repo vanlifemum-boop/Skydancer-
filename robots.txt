@@ -1,0 +1,8 @@
+# GitHub project pages are hosted in a subdirectory.
+# Crawlers only apply robots.txt at the HOST ROOT, not at /Skydancer-/robots.txt.
+# This file is ready for hosting at the root of the future production domain.
+# Update the Sitemap URL when migrating domains.
+User-agent: *
+Allow: /
+
+Sitemap: https://vanlifemum-boop.github.io/Skydancer-/sitemap.xml
